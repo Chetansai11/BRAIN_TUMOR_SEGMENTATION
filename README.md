@@ -35,9 +35,9 @@ Modal Block Diagram
 ![Flowchat for the work.](https://github.com/Chetansai11/BRAIN_TUMOR_SEGMENTATION/blob/main/images/Flowcharts.png)
 
 ## Results  
-- **Accuracy**: Over 90%.  
-- **Mean Intersection Over Union (Mean IoU)**: 78%.  
-- **Dice Score**: 74%.  
+- **Accuracy**: Over 95%.  
+- **Mean Intersection Over Union (Mean IoU)**: 70%.  
+- **Dice Score**: 76%.  
 
 ### Example Results  
 
