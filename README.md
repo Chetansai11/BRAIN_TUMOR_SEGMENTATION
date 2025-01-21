@@ -40,7 +40,7 @@ Modal Block Diagram
 - **Dice Score**: 74%.  
 
 ### Example Results  
-Predicted samples
+
 ![Prediction for all classes](https://github.com/Chetansai11/BRAIN_TUMOR_SEGMENTATION/blob/main/images/pre1.png)
 ![Prediction for seperate classes](https://github.com/Chetansai11/BRAIN_TUMOR_SEGMENTATION/blob/main/images/wnetresult.png)
 
