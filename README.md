@@ -54,7 +54,7 @@ Modal Block Diagram
 
 ---
 
-## Project Highlights  
+## Highlights  
 - **Boundary Detection**: Enhanced tumor boundary delineation for better diagnostic precision.  
 - **Robustness**: Ensured consistent results across diverse datasets through rigorous evaluation and tuning.  
 - **Scalability**: Models can be adapted for other medical imaging tasks beyond brain tumor segmentation.  
