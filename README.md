@@ -14,7 +14,8 @@ This project focuses on the segmentation of brain tumor regions in MRI images us
 ## Dataset  
 The BRATS datasets used in this project include:  
 - **MRI Modalities**: T1, T2, T1c (contrast-enhanced), and FLAIR.  
-- **Annotations**: Pixel-level ground truth for tumor regions, including core, enhancing, and whole tumor regions.  
+- **Annotations**: Pixel-level ground truth for tumor regions, including core, enhancing, and whole tumor regions.
+![Dataset of one sample](https://github.com/Chetansai11/BRAIN_TUMOR_SEGMENTATION/blob/main/images/Untitled%20design.png)
 
 ### Dataset Structure  
 Organize the dataset as follows:  
@@ -28,13 +29,20 @@ dataset/
       ├── masks/
   ```
 
+
+## Overview
+Modal Block Diagram
+![Flowchat for the work.](https://github.com/Chetansai11/BRAIN_TUMOR_SEGMENTATION/blob/main/images/Flowcharts.png)
+
 ## Results  
 - **Accuracy**: Over 90%.  
 - **Mean Intersection Over Union (Mean IoU)**: 78%.  
 - **Dice Score**: 74%.  
 
 ### Example Results  
-
+Predicted samples
+![Prediction for all classes](https://github.com/Chetansai11/BRAIN_TUMOR_SEGMENTATION/blob/main/images/pre1.png)
+![Prediction for seperate classes](https://github.com/Chetansai11/BRAIN_TUMOR_SEGMENTATION/blob/main/images/wnetresult.png)
 
 ## Performance Evaluation  
 ### **Comparison Models**  
