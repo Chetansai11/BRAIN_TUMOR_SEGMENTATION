@@ -26,7 +26,7 @@ dataset/
   ├── validation/
       ├── MRI Scans/
       ├── masks/
-  
+  ```
 
 ## Results  
 - **Accuracy**: Over 90%.  
